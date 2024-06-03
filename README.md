@@ -23,55 +23,6 @@ This is a Django-based movie website that allows users to search for movies, cre
 6. **Feedback Form**: Provides a feedback form for users to submit feedback.
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/55343369-9a64-4e03-abd5-ad58986df51a)
 
-## Project Structure
-Fasal/
-│
-├── app/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
-├── templates/
-│   ├── authentication/
-│   │   ├── index.html
-│   │   ├── signup.html
-│   │   ├── signin.html
-│   │   ├── activation_failed.html
-│   │   └── email_confirmation.html
-│   └── movies/
-│       ├── home.html
-│       ├── search.html
-│       ├── create_list.html
-│       └── view_list.html
-│
-├── movies/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
-├── project/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── manage.py
-└── README.md
-
-
 ## Steps to Run
 
 1. Clone the repository.
