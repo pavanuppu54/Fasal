@@ -24,7 +24,7 @@ This is a Django-based movie website that allows users to search for movies, cre
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/55343369-9a64-4e03-abd5-ad58986df51a)
 
 ## Project Structure
-project/
+Fasal/
 │
 ├── app/
 │   ├── migrations/
@@ -38,21 +38,20 @@ project/
 │   └── views.py
 │
 ├── templates/
-    └── authentication/
-│   ├── index.html
-│   ├── signup.html
-│   ├── signin.html
-│   ├── activation_failed.html
-│   └── email_confirmation.html
+│   ├── authentication/
+│   │   ├── index.html
+│   │   ├── signup.html
+│   │   ├── signin.html
+│   │   ├── activation_failed.html
+│   │   └── email_confirmation.html
+│   └── movies/
+│       ├── home.html
+│       ├── search.html
+│       ├── create_list.html
+│       └── view_list.html
 │
 ├── movies/
 │   ├── migrations/
-│   ├── templates/
-│   │   └── movies/
-│   │       ├── home.html
-│   │       ├── search.html
-│   │       ├── create_list.html
-│   │       └── view_list.html
 │   ├── __init__.py
 │   ├── admin.py
 │   ├── apps.py
@@ -71,6 +70,7 @@ project/
 │
 ├── manage.py
 └── README.md
+
 
 ## Steps to Run
 
