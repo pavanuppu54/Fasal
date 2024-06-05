@@ -33,7 +33,7 @@ The application uses the OMDB API to fetch movie data. To use the OMDB API:
 ```
 OMDB_API_KEY = 'your_api_key_here'
 ```
-5. Use the API key in your application to make requests to the OMDB API for movie data.
+4. Use the API key in your application to make requests to the OMDB API for movie data.
 
 
 ## Steps to Run
@@ -51,9 +51,26 @@ cd Fasal
 ```
 pip install -r requirements.txt`
 ```
-5. Apply migrations: `python manage.py migrate`
-6. Navigate to the project directory: `cd project/`
-7. Run the server: `python manage.py runserver`
-8. Access the application in your web browser at `http://localhost:8000/`
+4. Apply migrations:
+```
+python manage.py migrate
+```
+5. Add your OMDB API key to the settings.py file:
+```
+OMDB_API_KEY = 'your_api_key_here'
+```
+6. Navigate to the project directory:
+```
+cd project/
+```
+7. Run the server:
+```
+python manage.py runserver
+```
+8. Access the application in your web browser at http://localhost:8000/.
+
+
+## Contact
+For any inquiries, please contact `pavanuppu54@gmail.com`.
 
 
