@@ -1,5 +1,3 @@
-## Fasal
-
 # Django Movie Website 
 [Visit the website](http://pavanuppu.pythonanywhere.com/)
 
