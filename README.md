@@ -17,9 +17,9 @@ This is a Django-based movie website that allows users to search for movies, cre
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/2e3cb277-5db3-4702-8559-6f2b3db4c1f3)
 
 3. **Movie Lists**: Users can create and manage lists of movies, which can be public or private.
-4. ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/7007e607-67cb-4328-9f65-f9d7783f0ade)
+ ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/7007e607-67cb-4328-9f65-f9d7783f0ade)
 
-5. **Nice Layout**: The search and list pages have a visually appealing layout inspired by other websites/applications.
+4. **Nice Layout**: The search and list pages have a visually appealing layout inspired by other websites/applications.
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea)
 
 ## OMDB API Integration
