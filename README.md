@@ -11,7 +11,9 @@ This is a Django-based movie website that allows users to search for movies, cre
 ## Features
 
 1. **User Authentication**: Sign up and sign in functionalities with email verification for user authentication.
-![image](https://github.com/pavanuppu54/Fasal/assets/110449636/4433931d-e6c1-4744-87a2-51d3f852ccc8)
+<img src="![image](https://github.com/pavanuppu54/Fasal/assets/110449636/35f7143f-cc16-4f74-8c26-6906104f2205)
+" width="425"/> <img src="[image2.png](https://github.com/pavanuppu54/Fasal/assets/110449636/4433931d-e6c1-4744-87a2-51d3f852ccc8)" width="425"/> 
+
 
 2. **Movie Search**: Users can search for movies using the OMDB API.
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/2e3cb277-5db3-4702-8559-6f2b3db4c1f3)
