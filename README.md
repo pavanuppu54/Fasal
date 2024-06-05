@@ -1,8 +1,11 @@
-# Django Movie Website http://pavanuppu.pythonanywhere.com/
+## Fasal
+
+# Django Movie Website [Visit Website](Visit the website: http://pavanuppu.pythonanywhere.com/)
 
 ## Description
 
 This is a Django-based movie website that allows users to search for movies, create lists of movies (similar to YouTube playlists), and share those lists. Users can register, log in, and manage their movie lists. The application uses user authentication with email verification.
+
 
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/78fafce7-98b6-47bf-af36-3c08dc2d200a)
 
@@ -20,16 +23,36 @@ This is a Django-based movie website that allows users to search for movies, cre
 5. **Nice Layout**: The search and list pages have a visually appealing layout inspired by other websites/applications.
 ![image](https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea)
 
-6. **Feedback Form**: Provides a feedback form for users to submit feedback.
-![image](https://github.com/pavanuppu54/Fasal/assets/110449636/55343369-9a64-4e03-abd5-ad58986df51a)
+## OMDB API Integration
+The application uses the OMDB API to fetch movie data. To use the OMDB API:
+
+1. [Visit the OMDB API website.](http://www.omdbapi.com/)
+2. Sign up with your email to generate an API key.
+3. Add the API key to your settings.py file:
+```
+OMDB_API_KEY = 'your_api_key_here'
+```
+5. Use the API key in your application to make requests to the OMDB API for movie data.
+
 
 ## Steps to Run
 
+
 1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
-3. Apply migrations: `python manage.py migrate`
-4. Navigate to the project directory: `cd project/`
-5. Run the server: `python manage.py runserver`
-6. Access the application in your web browser at `http://localhost:8000/`
+```
+git clone https://github.com/pavanuppu54/Fasal.git
+```
+2. Navigate to the project directory:
+```
+cd Fasal
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt`
+```
+5. Apply migrations: `python manage.py migrate`
+6. Navigate to the project directory: `cd project/`
+7. Run the server: `python manage.py runserver`
+8. Access the application in your web browser at `http://localhost:8000/`
 
 
