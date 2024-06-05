@@ -70,6 +70,6 @@ python manage.py runserver
 
 
 ## Contact
-For any inquiries, please contact `pavanuppu54@gmail.com`.
+For any inquiries, please contact `pavanuppu2002@gmail.com`.
 
 Thank you for using the Fasal application! We hope you enjoy your experience. If you have any feedback or questions, please don't hesitate to contact us through the contact section.
