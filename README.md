@@ -11,17 +11,16 @@ This is a Django-based movie website that allows users to search for movies, cre
 ## Features
 
 1. **User Authentication**: Sign up and sign in functionalities with email verification for user authentication.
-<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/35f7143f-cc16-4f74-8c26-6906104f2205" width="425"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/4433931d-e6c1-4744-87a2-51d3f852ccc8" width="425"/> 
+<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/35f7143f-cc16-4f74-8c26-6906104f2205" width="400"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/4433931d-e6c1-4744-87a2-51d3f852ccc8" width="400"/> 
 
 2. **Movie Search**: Users can search for movies using the OMDB API.
-   <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/2e3cb277-5db3-4702-8559-6f2b3db4c1f3" width="425"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/f4369429-97ca-4140-87c3-980ee5c381e8" width="425"/> 
+<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/2e3cb277-5db3-4702-8559-6f2b3db4c1f3" width="400"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/f4369429-97ca-4140-87c3-980ee5c381e8" width="400"/> 
 
 3. **Movie Lists**: Users can create and manage lists of movies, which can be public or private.
-   <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/9e9ae3f4-f57a-4e78-a184-64015ed58123" width="425"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/171326cc-0fe1-40e7-8dbc-370d040cdf47
-" width="425"/> 
+<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/9e9ae3f4-f57a-4e78-a184-64015ed58123" width="400"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/171326cc-0fe1-40e7-8dbc-370d040cdf47" width="400"/> 
 
 4. **Nice Layout**: The search and list pages have a visually appealing layout inspired by other websites/applications.
-![image](https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea)
+<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea" width="400" >
 
 ## OMDB API Integration
 The application uses the OMDB API to fetch movie data. To use the OMDB API:
