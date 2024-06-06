@@ -20,7 +20,7 @@ This is a Django-based movie website that allows users to search for movies, cre
 <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/9e9ae3f4-f57a-4e78-a184-64015ed58123" width="400"/> <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/171326cc-0fe1-40e7-8dbc-370d040cdf47" width="400"/> 
 
 4. **Nice Layout**: The search and list pages have a visually appealing layout inspired by other websites/applications.
-<img src="https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea" width="400" >
+      <img src="https://github.com/pavanuppu54/Fasal/assets/110449636/60aff4f4-57d0-4c26-894a-a3d882d573ea" width="400" >
 
 ## OMDB API Integration
 The application uses the OMDB API to fetch movie data. To use the OMDB API:
